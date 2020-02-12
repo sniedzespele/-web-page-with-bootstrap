@@ -1,5 +1,4 @@
 
-
     .logo{
     	height: 150px;
   width: 350px;
@@ -33,9 +32,7 @@
     i{
     	font-size:36px;
     }
-    .dryer-icon{
-    	font-size:36px;
-    }
+    
     .name{
     	display: block;
     width: 100%;
@@ -64,21 +61,7 @@ table {
 th, td {
   padding: 15px;
 }
-.dryer-icon{
-	position:relative;
-	left: 300px;
-	top: -40px;
-}
-.coloring{
-	position:relative;
-	left: 310px;
-	top: -30px;
-}
-.cut {
-	position:relative;
-	left: 320px;
-	top: -30px;
-}
+
 .flip-card {
   background-color: transparent;
   width: 300px;
